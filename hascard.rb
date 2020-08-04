@@ -1,8 +1,8 @@
 class Hascard < Formula
   desc "A TUI for reviewing notes using 'flashcards' written with markdown-like syntax"
   homepage "https://github.com/Yvee1/hascard"
-  url "https://github.com/Yvee1/hascard/releases/download/v0.2.0.0/hascard-v0.2.0.0-osx.tar.gz"
-  sha256 "d0c58f096ea7a2851af3721851fca80daa61331a4b0306ee8b3b0c100332b6bf"
+  url "https://github.com/Yvee1/hascard/releases/download/v0.2.1.0/hascard-v0.2.1.0-osx.tar.gz"
+  sha256 "bd57e16e135be8ba6f85162bceec064b73f5dad088a1744e166b9a29f042ccaf"
 
   bottle :unneeded
 
