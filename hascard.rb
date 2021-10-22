@@ -4,8 +4,6 @@ class Hascard < Formula
   url "https://github.com/Yvee1/hascard/releases/download/v0.5.0.3/hascard-v0.5.0.3-osx.tar.gz"
   sha256 "fc6c9c3002dc8cd6f2079c66fcacc645dd0ac5dbacc9c608fe7fbb914a0e5ea2"
 
-  bottle :unneeded
-
   def install
     bin.install "hascard"
   end
